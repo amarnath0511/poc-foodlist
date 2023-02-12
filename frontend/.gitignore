@@ -5,3 +5,4 @@ yarn-error.log
 
 /.angular
 /.vscode
+/angular.json
